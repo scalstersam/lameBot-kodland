@@ -182,4 +182,5 @@ async def memep(ctx):
 
 
 
-bot.run("MTQ0Mjg1ODkyNzgyOTI4Njk5Mw.GlE90N.N2dWcWKN0g2plxzDMBpSnDg_Ky-yQHtdB--lYI")
+
+bot.run("your token")
